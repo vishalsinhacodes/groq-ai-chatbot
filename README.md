@@ -2,11 +2,17 @@
 
 A fast CLI chatbot using Groq LLM API (Llama 3).
 
-## Features
+## Features of chatbot_basic
 
 - Conversation memory
 - Python CLI interface
 - Uses Groq ultra-fast inference
+
+## Features of chatbot_streaming
+
+- Streaming AI responses (ChatGPT-style)
+- System prompt for backend mentor mode
+- Secure API key handling with dotenv
 
 ## How to Run
 
